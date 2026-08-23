@@ -1,0 +1,10 @@
+{
+  "name": "NutriTrack",
+  "short_name": "NutriTrack",
+  "description": "Planificación y seguimiento nutricional personal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#13785e",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
