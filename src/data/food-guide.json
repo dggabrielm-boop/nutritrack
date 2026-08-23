@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "protein-huevo-entero",
+    "name": "Huevo entero",
+    "category": "protein",
+    "portion": "1 unidad (50 g)",
+    "kcal": 70,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-claras-de-huevo",
+    "name": "Claras de huevo",
+    "category": "protein",
+    "portion": "100 g / 3 claras",
+    "kcal": 52,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-yogur-griego-descremado",
+    "name": "Yogur griego descremado",
+    "category": "protein",
+    "portion": "170 g",
+    "kcal": 100,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-yogur-griego-2",
+    "name": "Yogur griego 2%",
+    "category": "protein",
+    "portion": "170 g",
+    "kcal": 130,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-skyr-natural",
+    "name": "Skyr natural",
+    "category": "protein",
+    "portion": "150 g",
+    "kcal": 100,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-queso-cottage-descremado",
+    "name": "Queso cottage descremado",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 82,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-ricota-magra",
+    "name": "Ricota magra",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 140,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-queso-fresco-magro",
+    "name": "Queso fresco magro",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 110,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-mozzarella-light",
+    "name": "Mozzarella light",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 150,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-leche-descremada",
+    "name": "Leche descremada",
+    "category": "protein",
+    "portion": "250 ml",
+    "kcal": 85,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-leche-de-soja-sin-azucar",
+    "name": "Leche de soja sin azúcar",
+    "category": "protein",
+    "portion": "250 ml",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-kefir-descremado",
+    "name": "Kéfir descremado",
+    "category": "protein",
+    "portion": "250 ml",
+    "kcal": 100,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-proteina-whey-aislada",
+    "name": "Proteína whey aislada",
+    "category": "protein",
+    "portion": "25 g",
+    "kcal": 90,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-leche-en-polvo-descremada",
+    "name": "Leche en polvo descremada",
+    "category": "protein",
+    "portion": "25 g",
+    "kcal": 90,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-pechuga-de-pavo-natural",
+    "name": "Pechuga de pavo natural",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-pechuga-de-pollo",
+    "name": "Pechuga de pollo",
+    "category": "protein",
+    "portion": "75 g",
+    "kcal": 125,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-atun-al-natural",
+    "name": "Atún al natural",
+    "category": "protein",
+    "portion": "60 g escurrido",
+    "kcal": 70,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-salmon",
+    "name": "Salmón",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 125,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-sardinas-al-natural",
+    "name": "Sardinas al natural",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 125,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-merluza",
+    "name": "Merluza",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 110,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-carne-vacuna-magra",
+    "name": "Carne vacuna magra",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 125,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-cerdo-magro",
+    "name": "Cerdo magro",
+    "category": "protein",
+    "portion": "60 g",
+    "kcal": 145,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-jamon-cocido-reducido-en-sodio",
+    "name": "Jamón cocido reducido en sodio",
+    "category": "protein",
+    "portion": "50 g",
+    "kcal": 60,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-tofu-firme",
+    "name": "Tofu firme",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 85,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-tempeh",
+    "name": "Tempeh",
+    "category": "protein",
+    "portion": "75 g",
+    "kcal": 145,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-edamame",
+    "name": "Edamame",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 120,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-lentejas-cocidas",
+    "name": "Lentejas cocidas",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 116,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-garbanzos-cocidos",
+    "name": "Garbanzos cocidos",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 164,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-porotos-negros-cocidos",
+    "name": "Porotos negros cocidos",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 132,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-pasta-de-mani-natural",
+    "name": "Pasta de maní natural",
+    "category": "protein",
+    "portion": "16 g",
+    "kcal": 95,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-pasta-de-almendras",
+    "name": "Pasta de almendras",
+    "category": "protein",
+    "portion": "16 g",
+    "kcal": 98,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-tahini",
+    "name": "Tahini",
+    "category": "protein",
+    "portion": "15 g",
+    "kcal": 90,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-semillas-de-chia",
+    "name": "Semillas de chía",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 98,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-semillas-de-canamo",
+    "name": "Semillas de cáñamo",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 111,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-semillas-de-calabaza",
+    "name": "Semillas de calabaza",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 112,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-semillas-de-girasol",
+    "name": "Semillas de girasol",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 117,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-mani-sin-sal",
+    "name": "Maní sin sal",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 113,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-almendras",
+    "name": "Almendras",
+    "category": "protein",
+    "portion": "20 g",
+    "kcal": 116,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-quinoa-cocida",
+    "name": "Quinoa cocida",
+    "category": "protein",
+    "portion": "100 g",
+    "kcal": 120,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "protein-avena-tradicional",
+    "name": "Avena tradicional",
+    "category": "protein",
+    "portion": "40 g",
+    "kcal": 150,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-tomate",
+    "name": "Tomate",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 18,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-pepino",
+    "name": "Pepino",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 15,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-zanahoria",
+    "name": "Zanahoria",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 41,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-morron-rojo",
+    "name": "Morrón rojo",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-morron-verde",
+    "name": "Morrón verde",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 20,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-rucula",
+    "name": "Rúcula",
+    "category": "raw_vegetable",
+    "portion": "50 g",
+    "kcal": 13,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-lechuga",
+    "name": "Lechuga",
+    "category": "raw_vegetable",
+    "portion": "80 g",
+    "kcal": 12,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-espinaca-fresca",
+    "name": "Espinaca fresca",
+    "category": "raw_vegetable",
+    "portion": "60 g",
+    "kcal": 14,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-repollo-blanco",
+    "name": "Repollo blanco",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 25,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-repollo-morado",
+    "name": "Repollo morado",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-cebolla",
+    "name": "Cebolla",
+    "category": "raw_vegetable",
+    "portion": "50 g",
+    "kcal": 20,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-rabanito",
+    "name": "Rabanito",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 16,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-apio",
+    "name": "Apio",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 14,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-remolacha-rallada",
+    "name": "Remolacha rallada",
+    "category": "raw_vegetable",
+    "portion": "80 g",
+    "kcal": 34,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-palmitos-al-natural",
+    "name": "Palmitos al natural",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 28,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-champinones-crudos",
+    "name": "Champiñones crudos",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 22,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-brotes-de-soja",
+    "name": "Brotes de soja",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 30,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-chauchas-tiernas",
+    "name": "Chauchas tiernas",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-coliflor-cruda",
+    "name": "Coliflor cruda",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 25,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-brocoli-crudo",
+    "name": "Brócoli crudo",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 34,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-hinojo",
+    "name": "Hinojo",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-tomates-cherry",
+    "name": "Tomates cherry",
+    "category": "raw_vegetable",
+    "portion": "100 g",
+    "kcal": 18,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-berro",
+    "name": "Berro",
+    "category": "raw_vegetable",
+    "portion": "50 g",
+    "kcal": 6,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-escarola",
+    "name": "Escarola",
+    "category": "raw_vegetable",
+    "portion": "80 g",
+    "kcal": 14,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "raw_vegetable-palta",
+    "name": "Palta",
+    "category": "raw_vegetable",
+    "portion": "50 g",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-brocoli-al-vapor",
+    "name": "Brócoli al vapor",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 35,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-coliflor-al-vapor",
+    "name": "Coliflor al vapor",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 23,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-zanahoria-hervida",
+    "name": "Zanahoria hervida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 35,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-zapallito-zucchini",
+    "name": "Zapallito / zucchini",
+    "category": "cooked_vegetable",
+    "portion": "150 g",
+    "kcal": 25,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-berenjena-asada",
+    "name": "Berenjena asada",
+    "category": "cooked_vegetable",
+    "portion": "150 g",
+    "kcal": 50,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-calabaza-asada",
+    "name": "Calabaza asada",
+    "category": "cooked_vegetable",
+    "portion": "150 g",
+    "kcal": 68,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-zapallo-anco-hervido",
+    "name": "Zapallo anco hervido",
+    "category": "cooked_vegetable",
+    "portion": "150 g",
+    "kcal": 54,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-espinaca-cocida",
+    "name": "Espinaca cocida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 23,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-acelga-cocida",
+    "name": "Acelga cocida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 20,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-chauchas-hervidas",
+    "name": "Chauchas hervidas",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 35,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-repollo-cocido",
+    "name": "Repollo cocido",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 23,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-puerro-cocido",
+    "name": "Puerro cocido",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-cebolla-sin-aceite",
+    "name": "Cebolla sin aceite",
+    "category": "cooked_vegetable",
+    "portion": "80 g",
+    "kcal": 32,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-morron-asado",
+    "name": "Morrón asado",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 31,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-tomate-cocido",
+    "name": "Tomate cocido",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 22,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-champinones-sin-aceite",
+    "name": "Champiñones sin aceite",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 28,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-alcaucil-cocido",
+    "name": "Alcaucil cocido",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 53,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-esparragos-al-vapor",
+    "name": "Espárragos al vapor",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 22,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-arvejas-cocidas",
+    "name": "Arvejas cocidas",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 84,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-remolacha-hervida",
+    "name": "Remolacha hervida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 44,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-batata-asada",
+    "name": "Batata asada",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 90,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-papa-hervida",
+    "name": "Papa hervida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 87,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-mandioca-hervida",
+    "name": "Mandioca hervida",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 160,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-brocoli-gratinado-light",
+    "name": "Brócoli gratinado light",
+    "category": "cooked_vegetable",
+    "portion": "100 g",
+    "kcal": 70,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "cooked_vegetable-mix-de-vegetales-al-vapor",
+    "name": "Mix de vegetales al vapor",
+    "category": "cooked_vegetable",
+    "portion": "150 g",
+    "kcal": 55,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-avena-tradicional",
+    "name": "Avena tradicional",
+    "category": "carb",
+    "portion": "40 g seca",
+    "kcal": 150,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-pan-integral",
+    "name": "Pan integral",
+    "category": "carb",
+    "portion": "1 rebanada (35 g)",
+    "kcal": 85,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-pan-de-centeno",
+    "name": "Pan de centeno",
+    "category": "carb",
+    "portion": "1 rebanada (35 g)",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-pan-de-masa-madre",
+    "name": "Pan de masa madre",
+    "category": "carb",
+    "portion": "1 rebanada (40 g)",
+    "kcal": 100,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-tostada-integral",
+    "name": "Tostada integral",
+    "category": "carb",
+    "portion": "2 unidades (30 g)",
+    "kcal": 120,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-tortilla-integral",
+    "name": "Tortilla integral",
+    "category": "carb",
+    "portion": "1 unidad (40 g)",
+    "kcal": 130,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-tortilla-de-maiz",
+    "name": "Tortilla de maíz",
+    "category": "carb",
+    "portion": "2 unidades (50 g)",
+    "kcal": 105,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-arroz-integral-cocido",
+    "name": "Arroz integral cocido",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 123,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-arroz-blanco-cocido",
+    "name": "Arroz blanco cocido",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 130,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-quinoa-cocida",
+    "name": "Quinoa cocida",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 120,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-cuscus-cocido",
+    "name": "Cuscús cocido",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 112,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-bulgur-cocido",
+    "name": "Bulgur cocido",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 83,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-pasta-integral-cocida",
+    "name": "Pasta integral cocida",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 124,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-papa-hervida",
+    "name": "Papa hervida",
+    "category": "carb",
+    "portion": "150 g",
+    "kcal": 131,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-batata-asada",
+    "name": "Batata asada",
+    "category": "carb",
+    "portion": "150 g",
+    "kcal": 135,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-mandioca-hervida",
+    "name": "Mandioca hervida",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 160,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-choclo-cocido",
+    "name": "Choclo cocido",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 96,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-lentejas-cocidas",
+    "name": "Lentejas cocidas",
+    "category": "carb",
+    "portion": "100 g",
+    "kcal": 116,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-garbanzos-cocidos",
+    "name": "Garbanzos cocidos",
+    "category": "carb",
+    "portion": "80 g",
+    "kcal": 131,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-porotos-cocidos",
+    "name": "Porotos cocidos",
+    "category": "carb",
+    "portion": "80 g",
+    "kcal": 106,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-granola-sin-azucar",
+    "name": "Granola sin azúcar",
+    "category": "carb",
+    "portion": "30 g",
+    "kcal": 130,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-cereal-integral-sin-azucar",
+    "name": "Cereal integral sin azúcar",
+    "category": "carb",
+    "portion": "30 g",
+    "kcal": 110,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-galletas-de-arroz",
+    "name": "Galletas de arroz",
+    "category": "carb",
+    "portion": "2 unidades (18 g)",
+    "kcal": 70,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-banana",
+    "name": "Banana",
+    "category": "carb",
+    "portion": "1 pequeña (90 g)",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "carb-manzana",
+    "name": "Manzana",
+    "category": "carb",
+    "portion": "1 mediana (150 g)",
+    "kcal": 78,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aceite-de-oliva",
+    "name": "Aceite de oliva",
+    "category": "fat",
+    "portion": "1 cucharadita (5 ml)",
+    "kcal": 40,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aceite-de-canola",
+    "name": "Aceite de canola",
+    "category": "fat",
+    "portion": "1 cucharadita (5 ml)",
+    "kcal": 40,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aceite-de-palta",
+    "name": "Aceite de palta",
+    "category": "fat",
+    "portion": "1 cucharadita (5 ml)",
+    "kcal": 40,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-palta",
+    "name": "Palta",
+    "category": "fat",
+    "portion": "50 g",
+    "kcal": 80,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aceitunas-verdes",
+    "name": "Aceitunas verdes",
+    "category": "fat",
+    "portion": "5 unidades (20 g)",
+    "kcal": 29,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aceitunas-negras",
+    "name": "Aceitunas negras",
+    "category": "fat",
+    "portion": "5 unidades (20 g)",
+    "kcal": 23,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-nueces",
+    "name": "Nueces",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 98,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-almendras",
+    "name": "Almendras",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 87,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-castanas-de-caju",
+    "name": "Castañas de cajú",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 83,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-avellanas",
+    "name": "Avellanas",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 94,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-mani-sin-sal",
+    "name": "Maní sin sal",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 85,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-semillas-de-chia",
+    "name": "Semillas de chía",
+    "category": "fat",
+    "portion": "10 g",
+    "kcal": 49,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-semillas-de-lino-molidas",
+    "name": "Semillas de lino molidas",
+    "category": "fat",
+    "portion": "10 g",
+    "kcal": 53,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-semillas-de-sesamo",
+    "name": "Semillas de sésamo",
+    "category": "fat",
+    "portion": "10 g",
+    "kcal": 57,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-semillas-de-calabaza",
+    "name": "Semillas de calabaza",
+    "category": "fat",
+    "portion": "15 g",
+    "kcal": 84,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-pasta-de-mani",
+    "name": "Pasta de maní",
+    "category": "fat",
+    "portion": "1 cucharadita (8 g)",
+    "kcal": 48,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-pasta-de-almendras",
+    "name": "Pasta de almendras",
+    "category": "fat",
+    "portion": "1 cucharadita (8 g)",
+    "kcal": 49,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-tahini",
+    "name": "Tahini",
+    "category": "fat",
+    "portion": "1 cucharadita (8 g)",
+    "kcal": 48,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-mayonesa-light",
+    "name": "Mayonesa light",
+    "category": "fat",
+    "portion": "1 cucharada (15 g)",
+    "kcal": 35,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-hummus",
+    "name": "Hummus",
+    "category": "fat",
+    "portion": "2 cucharadas (30 g)",
+    "kcal": 75,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-aderezo-de-yogur-natural",
+    "name": "Aderezo de yogur natural",
+    "category": "fat",
+    "portion": "2 cucharadas (30 g)",
+    "kcal": 25,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-vinagreta-de-oliva",
+    "name": "Vinagreta de oliva",
+    "category": "fat",
+    "portion": "1 cucharadita de aceite + vinagre",
+    "kcal": 45,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-salsa-de-palta-y-limon",
+    "name": "Salsa de palta y limón",
+    "category": "fat",
+    "portion": "2 cucharadas (30 g)",
+    "kcal": 50,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-pesto-casero",
+    "name": "Pesto casero",
+    "category": "fat",
+    "portion": "1 cucharadita (10 g)",
+    "kcal": 45,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  },
+  {
+    "id": "fat-crema-de-queso-light",
+    "name": "Crema de queso light",
+    "category": "fat",
+    "portion": "30 g",
+    "kcal": 45,
+    "p": 0,
+    "c": 0,
+    "f": 0
+  }
+]
+
