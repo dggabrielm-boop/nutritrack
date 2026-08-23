@@ -1,0 +1,9 @@
+[
+  {"id":"egg","name":"Huevo","group":"protein","servingLabel":"3 unidades","calories":210,"protein":18,"carbs":1,"fat":15,"fiber":0},
+  {"id":"chicken","name":"Pollo grillado","group":"protein","servingLabel":"150 g","calories":280,"protein":43,"carbs":0,"fat":11,"fiber":0},
+  {"id":"tuna","name":"Atún al natural","group":"protein","servingLabel":"120 g","calories":130,"protein":29,"carbs":0,"fat":1,"fiber":0},
+  {"id":"rice","name":"Arroz integral","group":"carb","servingLabel":"150 g cocido","calories":220,"protein":5,"carbs":46,"fat":2,"fiber":3},
+  {"id":"lentils","name":"Lentejas","group":"legume","servingLabel":"150 g cocidas","calories":230,"protein":18,"carbs":40,"fat":1,"fiber":12},
+  {"id":"salad","name":"Ensalada variada","group":"vegetable","servingLabel":"1 plato","calories":80,"protein":3,"carbs":14,"fat":1,"fiber":5},
+  {"id":"avocado","name":"Palta","group":"fat","servingLabel":"½ unidad","calories":120,"protein":2,"carbs":6,"fat":11,"fiber":5}
+]
