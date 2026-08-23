@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NutriTrack — Wireframe</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar"><strong>NutriTrack</strong><button aria-label="Opciones">⋯</button></header>
+
+      <section class="screen active" data-screen="today">
+        <p class="eyebrow">Domingo, 23 de agosto</p>
+        <h1>Buen día, Gabriel</h1>
+        <p class="muted">Objetivo: recomposición corporal</p>
+        <div class="hero-card"><span>Calorías</span><strong>1.240 <small>/ 2.200 kcal</small></strong><div class="progress"><i style="width:56%"></i></div><small>56% del objetivo diario</small></div>
+        <div class="metric-grid">
+          <div class="card"><span>Proteína</span><strong>86 g</strong><small>/ 150 g</small></div>
+          <div class="card"><span>Agua</span><strong>1.200</strong><small>/ 2.500 ml</small></div>
+          <div class="card"><span>Pasos</span><strong>4.230</strong><small>de hoy</small></div>
+        </div>
+        <div class="section-title"><h2>Tus comidas</h2><button class="link" data-go="meals">Ver todas</button></div>
+        <div class="meal-list"><button class="meal-row"><span>Desayuno<small>3 alimentos</small></span><strong>420 kcal</strong></button><button class="meal-row" data-go="meals"><span>Almuerzo<small>Sin registrar</small></span><strong>+ Registrar</strong></button><button class="meal-row" data-go="meals"><span>Merienda<small>Sin registrar</small></span><strong>+ Registrar</strong></button><button class="meal-row" data-go="meals"><span>Cena<small>Sin registrar</small></span><strong>+ Registrar</strong></button></div>
+      </section>
+
+      <section class="screen" data-screen="meals">
+        <p class="eyebrow">Registro de hoy</p><h1>Armá tu comida</h1><p class="muted">Elegí una opción de cada grupo.</p>
+        <div class="selector card"><label>Tipo de comida<select id="mealType"><option>Almuerzo</option><option>Desayuno</option><option>Merienda</option><option>Cena</option></select></label><label>Proteína<select id="protein"><option>Pollo grillado — 280 kcal</option><option>3 huevos — 210 kcal</option><option>Atún al natural — 130 kcal</option></select></label><label>Acompañamiento<select id="carb"><option>Arroz integral — 220 kcal</option><option>Papa — 160 kcal</option><option>Lentejas — 230 kcal</option></select></label><label>Vegetales<select id="vegetables"><option>Ensalada variada — 80 kcal</option><option>Brócoli — 55 kcal</option><option>Verduras salteadas — 120 kcal</option></select></label><label>Grasa o aderezo<select id="fat"><option>Palta — 120 kcal</option><option>Aceite de oliva — 90 kcal</option><option>Sin agregado — 0 kcal</option></select></label></div>
+        <div class="result card"><span>Total estimado</span><strong id="mealTotal">700 kcal</strong><small>Proteína 52 g · Carbohidratos 64 g · Grasas 24 g</small></div><button class="primary" id="saveMeal">Guardar comida</button><p class="success" id="savedMessage" hidden>Comida guardada en el wireframe.</p>
+      </section>
+
+      <section class="screen" data-screen="evolution"><p class="eyebrow">Últimos 7 días</p><h1>Evolución</h1><div class="card"><span>Peso promedio</span><strong>108,4 kg</strong><small>−0,6 kg respecto a la semana anterior</small><div class="fake-chart"><i style="height:65%"></i><i style="height:52%"></i><i style="height:58%"></i><i style="height:45%"></i><i style="height:48%"></i><i style="height:35%"></i><i style="height:40%"></i></div></div><div class="metric-grid"><div class="card"><span>Proteína promedio</span><strong>132 g</strong></div><div class="card"><span>Agua promedio</span><strong>2,1 L</strong></div><div class="card"><span>Entrenamientos</span><strong>3</strong></div></div></section>
+
+      <section class="screen" data-screen="profile"><p class="eyebrow">Configuración</p><h1>Perfil</h1><div class="card profile"><label>Nombre<input value="Gabriel" /></label><label>Peso actual<input type="number" value="108" /> kg</label><label>Altura<input type="number" value="179" /> cm</label><label>Comidas por día<select><option>3</option><option>4</option><option>5</option></select></label><button class="secondary">Guardar cambios</button></div><div class="card"><span>IMC estimado</span><strong>33,7</strong><small>Referencia general; no distingue masa muscular y grasa.</small></div></section>
+
+      <nav class="bottom-nav"><button class="active" data-go="today">Hoy</button><button data-go="meals">Comidas</button><button class="add" data-go="meals">+</button><button data-go="evolution">Evolución</button><button data-go="profile">Perfil</button></nav>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
